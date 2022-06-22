@@ -23,7 +23,8 @@ habilidade com computadores de sistema operacional Windows ou Linux."
 ```
 
 
-<img align="right" width="500" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+<img align="right" width="500" src="https://c.tenor.com/kqlEI-zeRL4AAAAC/pixelart.gif" /> 
 <a href="https://github.com/AlysonCamargo">
  
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlysonCamargo&theme=dracula&hide_langs_below=1" />
