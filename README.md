@@ -17,7 +17,7 @@ object **ALYSON** {
  val primarySkillset = "Dinâmico, comunicativo, com grande facilidade para resolver problemas relacionados a
 computação já que possui grande conhecimento e experiência voltadas para essa área. Bastante
 habilidade com computadores de sistema operacional Windows ou Linux."
- val languages = listOf("Dart", "Javascript", "Java", "C", "C++", "Python" e "Swift") 
+ val languages = listOf("Dart", "Javascript", "Java", "C", "C++", "Python", "Ruby" e "Swift") 
 
 }
 ```
