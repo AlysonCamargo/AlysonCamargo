@@ -6,7 +6,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
   <a align="center" alt="linkedin" href="https://www.linkedin.com/in/alyson-camargo-49b476242" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## <img width="15" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> SOBRE MIM
 
 
 ```
