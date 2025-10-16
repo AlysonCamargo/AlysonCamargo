@@ -10,16 +10,27 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 
 ```
-object **ALYSON** {
- val name = "ALYSON DE OLIVEIRA CAMARGO"
- val acknowledgements = "ANALISTA DE SISTEMAS"
- 
- val primarySkillset = "Dinâmico, comunicativo, com grande facilidade para resolver problemas relacionados a
-computação já que possui grande conhecimento e experiência voltadas para essa área. Bastante
-habilidade com computadores de sistema operacional Windows ou Linux."
- val languages = listOf("Typescript", "Dart", "Javascript", "Java", "C", "C++", "Python", "Ruby" e "Swift") 
+💻 Habilidades técnicas
 
-}
+Linguagens com que trabalho: Dart, JavaScript, Java, C, C++, Python, Ruby e Swift (e sempre aberto a aprender mais)
+
+Experiência com ambientes Windows e Linux
+
+Interesse em atuação full-stack
+
+🚀 O que me motiva
+
+Criar softwares que façam sentido e causem impacto
+
+Colaborar e ajudar outras pessoas a aprenderem programação
+
+Trabalhar em equipes que valorizem o compartilhamento de conhecimento
+
+Enfrentar desafios técnicos que me façam sair da zona de conforto
+
+🔗 Foco atual & objetivos
+
+Atualmente, estou me dedicando cada vez mais ao desenvolvimento full-stack, explorando novas tecnologias e frameworks para ampliar meu leque técnico. Meu objetivo é participar de projetos significativos, contribuir com código de qualidade e crescer como profissional de tecnologia.
 ```
 
 
