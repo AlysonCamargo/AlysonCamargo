@@ -36,7 +36,7 @@ Atualmente, estou me dedicando cada vez mais ao desenvolvimento full-stack, expl
 <img align="right" width="500" src="https://c.tenor.com/kqlEI-zeRL4AAAAC/pixelart.gif" /> 
 <a href="https://github.com/AlysonCamargo">
  
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlysonCamargo&theme=dracula&hide_langs_below=1" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlysonCamargo&theme=dark&hide_langs_below=1" />
 </a>
 
 
