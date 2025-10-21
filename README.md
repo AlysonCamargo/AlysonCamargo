@@ -1,11 +1,11 @@
-# Olá, programador! 👋
+# Olá, programador! 
 
 Desenvolvedor Full-Stack apaixonado por criar aplicações modernas, eficientes e com boa experiência de usuário.  
 Tenho experiência com front-end, back-end, banco de dados e gosto de explorar novas tecnologias e stacks.
 
 ---
 
-## 🚀 Tecnologias que uso com frequência  
+## Tecnologias que uso com frequência  
 - JavaScript / TypeScript  
 - Vue, SvelteKit  
 - Python  
@@ -17,7 +17,7 @@ Tenho experiência com front-end, back-end, banco de dados e gosto de explorar n
 
 ---
 
-## 🧰 Projetos em destaque  
+## Projetos em destaque  
 A seguir alguns dos meus repositórios públicos mais recentes:
 
 - **[music-playlist-manager](https://github.com/AlysonCamargo/music-playlist-manager)** – Sistema de gerenciamento de playlists e músicas com interface em SvelteKit e back-end em Rust.  
@@ -29,7 +29,7 @@ A seguir alguns dos meus repositórios públicos mais recentes:
 
 ---
 
-## 🎯 O que me motiva  
+## O que me motiva  
 - Criar soluções que realmente facilitem a vida das pessoas ou tornem processos mais ágeis.  
 - Explorar visualizações (algoritmos, interações em tempo real) porque acho divertido ver “como funciona por trás”.  
 - Aprender linguagens e frameworks diferentes para ampliar o repertório técnico.  
