@@ -31,14 +31,6 @@ A seguir alguns dos meus repositórios públicos mais recentes:
 
 ---
 
-## O que me motiva  
-- Criar soluções que realmente facilitem a vida das pessoas ou tornem processos mais ágeis.  
-- Explorar visualizações (algoritmos, interações em tempo real) porque acho divertido ver “como funciona por trás”.  
-- Aprender linguagens e frameworks diferentes para ampliar o repertório técnico.  
-- Trabalhar em projetos de ponta e manter o código limpo, organizado e bem documentado.
-
----
-
 ## 📫 Como me encontrar  
 - GitHub: [@AlysonCamargo](https://github.com/AlysonCamargo)  
 - Estou aberto a colaborações e novas oportunidades de projeto.
