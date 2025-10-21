@@ -1,43 +1,46 @@
-### Olá devs 👋
+# Olá, programador! 👋
 
-  <a align="center" alt="mail" href = "mailto:alysoncamar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a align="center" alt="linkedin" href="https://www.linkedin.com/in/alyson-camargo-49b476242" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+Desenvolvedor Full-Stack apaixonado por criar aplicações modernas, eficientes e com boa experiência de usuário.  
+Tenho experiência com front-end, back-end, banco de dados e gosto de explorar novas tecnologias e stacks.
 
+---
 
-## <img width="15" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> SOBRE MIM
+## 🚀 Tecnologias que uso com frequência  
+- JavaScript / TypeScript  
+- Vue, SvelteKit  
+- Python  
+- Rust (para back-end)  
+- Dart (Flutter ou apps móveis)  
+- HTML & CSS (incluindo layouts avançados)  
+- Banco de dados SQLite e outras tecnologias de persistência  
+- APIs REST, sistemas em tempo real, visualizações de algoritmos  
 
+---
 
-```
-💻 Habilidades técnicas
+## 🧰 Projetos em destaque  
+A seguir alguns dos meus repositórios públicos mais recentes:
 
-Linguagens com que trabalho: Dart, JavaScript, Java, C, C++, Python, Ruby e Swift (e sempre aberto a aprender mais)
+- **[music-playlist-manager](https://github.com/AlysonCamargo/music-playlist-manager)** – Sistema de gerenciamento de playlists e músicas com interface em SvelteKit e back-end em Rust.  
+- **[distritozlg-site](https://github.com/AlysonCamargo/distritozlg-site)** – Site oficial da marca de streetwear “Distrito ZLG”, focado em performance, responsividade e estilo moderno.  
+- **[Realtime-Blog-Platform](https://github.com/AlysonCamargo/Realtime-Blog-Platform)** – Plataforma de blog com CRUD, busca em tempo real, estatísticas e interface moderna usando o stack MEVN.  
+- **[AI-Task-Manager](https://github.com/AlysonCamargo/AI-Task-Manager)** – Sistema inteligente de gerenciamento de tarefas com API REST, banco SQLite e sugestões/pioritização automática baseada em IA.  
+- **[Pathfinding-Visualizer](https://github.com/AlysonCamargo/Pathfinding-Visualizer)** – Visualizador interativo de algoritmos de busca de caminho, com animações em tempo real e interface intuitiva.  
+- **[sorting-visualizer](https://github.com/AlysonCamargo/sorting-visualizer)** – Aplicação web para visualização de algoritmos de ordenação em tempo real, com animações suaves e estatísticas detalhadas.  
 
-Experiência com ambientes Windows e Linux
+---
 
-Interesse em atuação full-stack
+## 🎯 O que me motiva  
+- Criar soluções que realmente facilitem a vida das pessoas ou tornem processos mais ágeis.  
+- Explorar visualizações (algoritmos, interações em tempo real) porque acho divertido ver “como funciona por trás”.  
+- Aprender linguagens e frameworks diferentes para ampliar o repertório técnico.  
+- Trabalhar em projetos de ponta e manter o código limpo, organizado e bem documentado.
 
-🚀 O que me motiva
+---
 
-Criar softwares que façam sentido e causem impacto
+## 📫 Como me encontrar  
+- GitHub: [@AlysonCamargo](https://github.com/AlysonCamargo)  
+- Estou aberto a colaborações e novas oportunidades de projeto.
 
-Colaborar e ajudar outras pessoas a aprenderem programação
+---
 
-Trabalhar em equipes que valorizem o compartilhamento de conhecimento
-
-Enfrentar desafios técnicos que me façam sair da zona de conforto
-
-🔗 Foco atual & objetivos
-
-Atualmente, estou me dedicando cada vez mais ao desenvolvimento full-stack, explorando novas tecnologias e frameworks para ampliar meu leque técnico. Meu objetivo é participar de projetos significativos, contribuir com código de qualidade e crescer como profissional de tecnologia.
-```
-
-
-
-<img align="right" width="500" src="https://c.tenor.com/kqlEI-zeRL4AAAAC/pixelart.gif" /> 
-<a href="https://github.com/AlysonCamargo">
- 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlysonCamargo&theme=dark&hide_langs_below=1" />
-</a>
-
-
-
+*Obrigado por visitar o meu perfil — sinta-se à vontade para explorar os repositórios e entrar em contato!*  
