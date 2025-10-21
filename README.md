@@ -49,5 +49,4 @@ A seguir alguns dos meus repositórios públicos mais recentes:
 </a>
 
 
-
-*Obrigado por visitar o meu perfil — sinta-se à vontade para explorar os repositórios e entrar em contato!*  
+<img align="right" width="500" src="https://c.tenor.com/kqlEI-zeRL4AAAAC/pixelart.gif" /> 
