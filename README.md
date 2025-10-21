@@ -25,7 +25,9 @@ A seguir alguns dos meus repositórios públicos mais recentes:
 - **[Realtime-Blog-Platform](https://github.com/AlysonCamargo/Realtime-Blog-Platform)** – Plataforma de blog com CRUD, busca em tempo real, estatísticas e interface moderna usando o stack MEVN.  
 - **[AI-Task-Manager](https://github.com/AlysonCamargo/AI-Task-Manager)** – Sistema inteligente de gerenciamento de tarefas com API REST, banco SQLite e sugestões/pioritização automática baseada em IA.  
 - **[Pathfinding-Visualizer](https://github.com/AlysonCamargo/Pathfinding-Visualizer)** – Visualizador interativo de algoritmos de busca de caminho, com animações em tempo real e interface intuitiva.  
-- **[sorting-visualizer](https://github.com/AlysonCamargo/sorting-visualizer)** – Aplicação web para visualização de algoritmos de ordenação em tempo real, com animações suaves e estatísticas detalhadas.  
+- **[sorting-visualizer](https://github.com/AlysonCamargo/sorting-visualizer)** – Aplicação web para visualização de algoritmos de ordenação em tempo real, com animações suaves e estatísticas detalhadas.
+
+
 
 ---
 
@@ -42,5 +44,10 @@ A seguir alguns dos meus repositórios públicos mais recentes:
 - Estou aberto a colaborações e novas oportunidades de projeto.
 
 ---
+  <a href="https://github.com/AlysonCamargo">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlysonCamargo&theme=dark&hide_langs_below=1" />
+</a>
+
+
 
 *Obrigado por visitar o meu perfil — sinta-se à vontade para explorar os repositórios e entrar em contato!*  
