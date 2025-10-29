@@ -26,7 +26,7 @@ A seguir alguns dos meus repositórios públicos mais recentes:
 - **[AI-Task-Manager](https://github.com/AlysonCamargo/AI-Task-Manager)** – Sistema inteligente de gerenciamento de tarefas com API REST, banco SQLite e sugestões/pioritização automática baseada em IA.  
 - **[Pathfinding-Visualizer](https://github.com/AlysonCamargo/Pathfinding-Visualizer)** – Visualizador interativo de algoritmos de busca de caminho, com animações em tempo real e interface intuitiva.  
 - **[sorting-visualizer](https://github.com/AlysonCamargo/sorting-visualizer)** – Aplicação web para visualização de algoritmos de ordenação em tempo real, com animações suaves e estatísticas detalhadas.
-
+- **[3d-art-gallery]([https://github.com/AlysonCamargo/sorting-visualizer])** – Galeria de arte 3D interativa com animações de partículas, rotação, zoom e gerenciamento completo de obras.
 
 
 ---
